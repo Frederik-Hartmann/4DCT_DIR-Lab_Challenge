@@ -4,7 +4,7 @@ Authors: [Xavier Beltran Urbano](https://xavibeltranurbano.github.io) and [Frede
 ## Setting Up the Project
 1. Clone the project:
   ```bash
-  git https://github.com/xavibeltranurbano/4DCT_DIR-Lab_Challenge.git
+  git clone https://github.com/Frederik-Hartmann/4DCT_DIR-Lab_Challenge.git
   cd 4DCT_DIR-Lab_Challenge
   ```
 2. Using a virtual environment is strongly recommended.
